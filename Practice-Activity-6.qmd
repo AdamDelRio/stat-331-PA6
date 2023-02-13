@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Dillon, Adam, Ruben, Nick"
 format: html
 editor: visual
 self-contatined: true
