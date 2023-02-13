@@ -1,6 +1,10 @@
 ---
 title: "Practice Activity 6"
+<<<<<<< HEAD
 author: "Adam Del Rio, Nick Patrick, Ruben Jimenez, Dillon Murphy"
+=======
+author: "Dillon, Adam, Ruben, Nick"
+>>>>>>> f4fdc88357c137708bb440d0d056031ee8c3857f
 format: html
 editor: visual
 self-contatined: true
