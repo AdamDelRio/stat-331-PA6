@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Adam Del Rio, Nick Patrick, Ruben Jimenez, Dillon Murphy"
 format: html
 editor: visual
 self-contatined: true
